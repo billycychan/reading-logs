@@ -1,0 +1,8 @@
+.DS_Store
+*.epub
+*.mobi
+*.azw
+*.azw3
+*.pdf
+source-materials/
+
